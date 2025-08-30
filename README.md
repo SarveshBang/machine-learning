@@ -24,6 +24,7 @@ Directory Layout (expected)
 Create the following top‑level folders before running:
 - `Data`        : input & ETL outputs (CSV files; **data not provided in repo**)
 - `Results`     : all model predictions, merged files, portfolio series & evaluation tables
+   - `Graphs`	: visualizations outputs
 - `Notebooks`   : optional, if you prefer to store `.ipynb` here; code assumes running from repo root
 - `Figures`     : optional, if you choose to export plots (DM heatmaps etc.) via `plt.savefig(...)`
 
