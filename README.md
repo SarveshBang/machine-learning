@@ -8,7 +8,7 @@ Additional materials for extended research project submitted to the University o
 Core Contents
 -------------
 Notebooks (run in this order, with the environments shown below):
-1) `etl.ipynb`                  (base_venv) – Build clean panel (Energy stocks, 2000–2015 IS, 2016–2024 OOS)
+1) `etl.ipynb`                  (base_venv) – Build clean panel (Top 50 Energy stocks by market capitalization during in-sample period, in-sample: 2000–2015, out-of-sample: 2016–2024)
 2) `eda.ipynb`                  (base_venv) – Basic descriptive statistics and sanity checks
 3) `traditional_models.ipynb`   (base_venv) – OLS, Lasso, Ridge, Elastic Net, RF, XGBoost, and MLPs
 4) `timesfm_model.ipynb`        (timesfm_chronos_venv) – Google TimesFM 1.0 (200M) & 2.0 (500M) zero-shot
