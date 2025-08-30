@@ -1,9 +1,9 @@
 Foundation Time Series Forecasting in Financial Domain 
 ================================================================
 
-Purpose
--------
 Additional materials for extended research project submitted to the University of Manchester for the degree of MSc in Data Science in the Faculty of Humanities to allow reproduction of your research
+------------------------------------------------------------------------------
+
 
 Core Contents
 -------------
